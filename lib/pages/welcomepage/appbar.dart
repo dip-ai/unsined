@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:unsined/config/page_route.dart';
+import 'package:unsined/pages/welcomepage/page_route.dart';
 
 class CustomAppBar extends StatelessWidget {
   const CustomAppBar({super.key});

@@ -54,7 +54,7 @@ class BlurredMenuPage extends StatelessWidget {
                 onTap: () {
                   Navigator.of(context).pop();
                 },
-                child: Icon(Icons.close, color: Colors.white, size: 50)),
+                child: const Icon(Icons.close, color: Colors.white, size: 50)),
           ),
         ],
       ),
